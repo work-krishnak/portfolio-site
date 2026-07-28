@@ -16,3 +16,11 @@ How we recovered: Ran `git remote set-url origin https://github.com/work-krishna
 to overwrite the bad remote instead of adding a new one. Verified with `git remote -v`.
 
 Time spent: ~5 minutes from error to confirmed fix.
+
+## Phase 1 — Summary
+
+Live URL: https://work-krishnak.github.io/portfolio-site/
+GitHub repo: https://github.com/work-krishnak/portfolio-site
+Status: Complete and verified live.
+Main issue encountered: git remote setup (see Step 10 log above).
+No other blockers.
