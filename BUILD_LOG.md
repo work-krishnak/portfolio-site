@@ -24,3 +24,8 @@ GitHub repo: https://github.com/work-krishnak/portfolio-site
 Status: Complete and verified live.
 Main issue encountered: git remote setup (see Step 10 log above).
 No other blockers.
+
+## Known issue to revisit
+Global git email/name were unset during Phase 1, so portfolio-site commits used
+an auto-guessed identity (v-kumarchak@microsoft.com) instead of the intended
+work.krishnak@gmail.com. Needs amending before final submission.
